@@ -6,3 +6,5 @@ elif media > 3:
     print("Recuperação")
 else:
     print("Reprovado")
+
+print(f"Sua nota foi: {media}")
